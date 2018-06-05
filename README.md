@@ -1,6 +1,7 @@
 # ibaotu_peiyue_download
 
-####地址：https://ibaotu.com/peiyue/
+####地址1：https://ibaotu.com/peiyue/
+####地址2：https://ibaotu.com/yinxiao/
 
 #####说明：
 
